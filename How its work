@@ -1,0 +1,6 @@
+I will use random operation to perform this game by using rand() operation to generate random operation.
+And first we will incldue library #include<ctime>
+condition:
+  1. Scissor beat paper
+  2. Paper beat rock  
+  3. Rock beat scissor
